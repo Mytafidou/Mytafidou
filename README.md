@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,wordpress,matlab)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
