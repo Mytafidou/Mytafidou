@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 # 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,matlab)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,arduino,raspberrypi,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,arduino,raspberrypi,swift)](https://skillicons.dev)
 
 ## 🖥️  Environments I work with
 
