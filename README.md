@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,arduino,raspberrypi,swift,ruby,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,arduino,raspberrypi,swift,mysql,ruby)](https://skillicons.dev)
 
 ## 🖥️  Environments I work with
 
