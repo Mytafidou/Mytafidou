@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ![github-contribution-grid-snake-dark](https://github.com/Mytafidou/Mytafidou/assets/115291539/699c49c0-444e-4eb9-b18b-11f63d091914)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mytafidou&layout=donut&theme=midnight-purple)](https://github.com/Mytafidou/github-readme-stats&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mytafidou&layout=donut&theme=transparent)](https://github.com/Mytafidou/github-readme-stats&theme=transparent)
