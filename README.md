@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🖥️  Environments I work with
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,clion,idea,vscode,apple,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,clion,idea,vscode,eclipse,apple,linux,windows)](https://skillicons.dev)
 
 ![github-contribution-grid-snake-dark](https://github.com/Mytafidou/Mytafidou/assets/115291539/699c49c0-444e-4eb9-b18b-11f63d091914)
 
